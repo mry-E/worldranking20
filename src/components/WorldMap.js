@@ -84,7 +84,6 @@ function DrawWorldMap({features,data}){
                 r={radius(item.country_code)} 
                 fill="red" 
                 opacity="0.5" 
-                onMouseOver={(e) => {console.log(item.lat)}}
                 />   
               </g>   
               )         

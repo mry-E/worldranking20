@@ -25,8 +25,8 @@ function App(){
       }
     return(
         <div>
-            <Header />  
-            <div class="select is-primary is-medium">
+            <Header /> 
+            <div class="select is-primary is-large" style={{margin: "10px"}}>
                 <select name="type" value={type} onChange={handleTypeChange}>
                     <option value="GDP">GDP</option>
                     <option value="Population">人口</option>
@@ -37,7 +37,7 @@ function App(){
                     <option value="Tax">消費税</option>
                 </select>
             </div>
-            <div class="select is-primary is-medium">
+            <div class="select is-primary is-large" style={{margin: "10px"}}>
                 <select name="year" value={year} onChange={handleYearChange}>
                     <option>2000</option>
                     <option>2005</option>
@@ -46,14 +46,14 @@ function App(){
                     <option>2019</option>
                 </select>
             </div>
-                <div className="card" style={{ width:"100%" ,height: "50%"}}>
+                <div className="card" style={{ width:"97%" , margin: "20px"}}>
                     <div className="card-content">
                         <div className="content">
                             <WorldMap data={data}/>
                         </div>
                     </div>
                 </div>
-            <div className="card" style={{ width:"100%" ,height: "50%"}}>
+            <div className="card" style={{ width:"97%" ,  margin: "20px"}}>
                 <div className="card-content">
                     <div className="content">
                         <BarChart data={data} type={type}/>

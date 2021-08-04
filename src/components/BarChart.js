@@ -63,12 +63,13 @@ function HorizontalAxis({scale,type,unit}){
 }
 
 function Tooltip ({show,clientX,clientY,country,value}){
+    console.log(clientY)
     return (
         <div>
           {show && (
           <div
             id="tooltip"
-            style={{ top: `${clientY}px`, left: `${clientX+20}px` }}
+            style={{ top: `${clientY-150}px`, left: `${clientX+20}px` }}
           >
             {country}
             <br/>
@@ -83,8 +84,8 @@ function BarChart({data,type}){
     const unit = {
         "Aging":"%",
         "CO2":"百万トン",
-        "GDP":"百万US",
-        "Income":"US",
+        "GDP":"百万US$",
+        "Income":"US$",
         "Lifespan":"歳",
         "Population":"千人",
         "Tax":"%"
@@ -98,7 +99,6 @@ function BarChart({data,type}){
     const margin = {top: 20, right: 20, bottom: 30, left: 40}
     const width = 800 - margin.left - margin.right;
     const height = 280 - margin.top - margin.bottom;
-    const [color,setColor] = useState("red");
     const [clientX,setX] = useState(0);
     const [clientY,setY] = useState(0);
     const [show,setShow] = useState(false);
@@ -116,21 +116,19 @@ function BarChart({data,type}){
           .range([0, height]);
     
     const handleMouseOver = (e,item) => {
-        setColor("blue");
         setShow(true);
-        setX(e.pageX);
-        setY(e.pageY);
+        setX(e.clientX);
+        setY(e.clientY);
         setCountry(item.country);
         setValue(item.value);
     }
 
     const handleMouseMove = (e) => {
-        setX(e.pageX);
-        setY(e.pageY);
+        setX(e.clientX);
+        setY(e.clientY);
     }
 
     const handleMouseOut = (e) => {
-        setColor("red");
         setShow(false);
     }
     return(
@@ -157,6 +155,7 @@ function BarChart({data,type}){
                     })}
                 </g>
             </svg>
+            <Tooltip show={show} clientX={clientX} clientY={clientY} country={countryDetail} value={value.toFixed(3)} />
         </div>
     );
 }

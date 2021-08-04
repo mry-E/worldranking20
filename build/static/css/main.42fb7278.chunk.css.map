@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/tooltip.css"],"names":[],"mappings":"AAAA,SACI,qBAAuB,CACvB,WAAY,CACZ,iBAAkB,CAClB,qBACF","file":"main.42fb7278.chunk.css","sourcesContent":["#tooltip {\r\n    border: 1px solid black;\r\n    padding: 5px;\r\n    position: absolute;\r\n    background-color: white;\r\n  }\r\n  "]}

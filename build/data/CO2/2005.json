@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "中国",
+       "ISO": "CN",
+       "year": 2005,
+       "value": 6098.1825303
+    },
+    {
+       "ranking": 2,
+       "country": "米国",
+       "ISO": "US",
+       "year": 2005,
+       "value": 5873.1730257
+    },
+    {
+       "ranking": 3,
+       "country": "ロシア",
+       "ISO": "RU",
+       "year": 2005,
+       "value": 1465.9313565
+    },
+    {
+       "ranking": 4,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2005,
+       "value": 1295.1073662
+    },
+    {
+       "ranking": 5,
+       "country": "インド",
+       "ISO": "IN",
+       "year": 2005,
+       "value": 1200.246025
+    },
+    {
+       "ranking": 6,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2005,
+       "value": 826.3176289
+    },
+    {
+       "ranking": 7,
+       "country": "イギリス",
+       "ISO": "GB",
+       "year": 2005,
+       "value": 579.142013
+    },
+    {
+       "ranking": 8,
+       "country": "カナダ",
+       "ISO": "CA",
+       "year": 2005,
+       "value": 556.5251487
+    },
+    {
+       "ranking": 9,
+       "country": "韓国",
+       "ISO": "KR",
+       "year": 2005,
+       "value": 487.8672308
+    },
+    {
+       "ranking": 10,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2005,
+       "value": 470.1966254
+    },
+    {
+       "ranking": 11,
+       "country": "南アフリカ",
+       "ISO": "ZA",
+       "year": 2005,
+       "value": 421.6636468
+    },
+    {
+       "ranking": 12,
+       "country": "メキシコ",
+       "ISO": "MX",
+       "year": 2005,
+       "value": 416.5884367
+    },
+    {
+       "ranking": 13,
+       "country": "イラン",
+       "ISO": "IR",
+       "year": 2005,
+       "value": 409.0918789
+    },
+    {
+       "ranking": 14,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2005,
+       "value": 389.7707403
+    },
+    {
+       "ranking": 15,
+       "country": "オーストラリア",
+       "ISO": "AU",
+       "year": 2005,
+       "value": 382.5683259
+    },
+    {
+       "ranking": 16,
+       "country": "スペイン",
+       "ISO": "ES",
+       "year": 2005,
+       "value": 374.9418566
+    },
+    {
+       "ranking": 17,
+       "country": "サウジアラビア",
+       "ISO": "SA",
+       "year": 2005,
+       "value": 342.7539081
+    },
+    {
+       "ranking": 18,
+       "country": "インドネシア",
+       "ISO": "ID",
+       "year": 2005,
+       "value": 337.3534511
+    },
+    {
+       "ranking": 19,
+       "country": "ブラジル",
+       "ISO": "BR",
+       "year": 2005,
+       "value": 329.9808904
+    },
+    {
+       "ranking": 20,
+       "country": "ウクライナ",
+       "ISO": "UA",
+       "year": 2005,
+       "value": 315.4567728
+    }
+ ]

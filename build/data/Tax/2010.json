@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "アイスランド",
+       "ISO": "IS",
+       "year": 2010,
+       "value": 25.5
+    },
+    {
+       "ranking": 2,
+       "country": "デンマーク",
+       "ISO": "DK",
+       "year": 2010,
+       "value": 25.0
+    },
+    {
+       "ranking": 2,
+       "country": "ハンガリー",
+       "ISO": "HU",
+       "year": 2010,
+       "value": 25.0
+    },
+    {
+       "ranking": 2,
+       "country": "ノルウェー",
+       "ISO": "NO",
+       "year": 2010,
+       "value": 25.0
+    },
+    {
+       "ranking": 2,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2010,
+       "value": 25.0
+    },
+    {
+       "ranking": 6,
+       "country": "フィンランド",
+       "ISO": "FI",
+       "year": 2010,
+       "value": 22.0
+    },
+    {
+       "ranking": 6,
+       "country": "ポーランド",
+       "ISO": "PL",
+       "year": 2010,
+       "value": 22.0
+    },
+    {
+       "ranking": 8,
+       "country": "ベルギー",
+       "ISO": "BE",
+       "year": 2010,
+       "value": 21.0
+    },
+    {
+       "ranking": 8,
+       "country": "アイルランド",
+       "ISO": "IE",
+       "year": 2010,
+       "value": 21.0
+    },
+    {
+       "ranking": 8,
+       "country": "ラトビア",
+       "ISO": "LV",
+       "year": 2010,
+       "value": 21.0
+    },
+    {
+       "ranking": 8,
+       "country": "リトアニア",
+       "ISO": "LT",
+       "year": 2010,
+       "value": 21.0
+    },
+    {
+       "ranking": 12,
+       "country": "オーストリア",
+       "ISO": "AT",
+       "year": 2010,
+       "value": 20.0
+    },
+    {
+       "ranking": 12,
+       "country": "チェコ",
+       "ISO": "CZ",
+       "year": 2010,
+       "value": 20.0
+    },
+    {
+       "ranking": 12,
+       "country": "エストニア",
+       "ISO": "EE",
+       "year": 2010,
+       "value": 20.0
+    },
+    {
+       "ranking": 12,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2010,
+       "value": 20.0
+    },
+    {
+       "ranking": 12,
+       "country": "ポルトガル",
+       "ISO": "PT",
+       "year": 2010,
+       "value": 20.0
+    },
+    {
+       "ranking": 12,
+       "country": "スロベニア",
+       "ISO": "SI",
+       "year": 2010,
+       "value": 20.0
+    },
+    {
+       "ranking": 18,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2010,
+       "value": 19.6
+    },
+    {
+       "ranking": 19,
+       "country": "チリ",
+       "ISO": "CL",
+       "year": 2010,
+       "value": 19.0
+    },
+    {
+       "ranking": 19,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2010,
+       "value": 19.0
+    }
+ ]

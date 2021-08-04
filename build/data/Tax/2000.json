@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "デンマーク",
+       "ISO": "DK",
+       "year": 2000,
+       "value": 25.0
+    },
+    {
+       "ranking": 1,
+       "country": "ハンガリー",
+       "ISO": "HU",
+       "year": 2000,
+       "value": 25.0
+    },
+    {
+       "ranking": 1,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2000,
+       "value": 25.0
+    },
+    {
+       "ranking": 4,
+       "country": "アイスランド",
+       "ISO": "IS",
+       "year": 2000,
+       "value": 24.5
+    },
+    {
+       "ranking": 5,
+       "country": "ノルウェー",
+       "ISO": "NO",
+       "year": 2000,
+       "value": 23.0
+    },
+    {
+       "ranking": 5,
+       "country": "スロバキア",
+       "ISO": "SK",
+       "year": 2000,
+       "value": 23.0
+    },
+    {
+       "ranking": 7,
+       "country": "チェコ",
+       "ISO": "CZ",
+       "year": 2000,
+       "value": 22.0
+    },
+    {
+       "ranking": 7,
+       "country": "フィンランド",
+       "ISO": "FI",
+       "year": 2000,
+       "value": 22.0
+    },
+    {
+       "ranking": 7,
+       "country": "ポーランド",
+       "ISO": "PL",
+       "year": 2000,
+       "value": 22.0
+    },
+    {
+       "ranking": 10,
+       "country": "ベルギー",
+       "ISO": "BE",
+       "year": 2000,
+       "value": 21.0
+    },
+    {
+       "ranking": 10,
+       "country": "アイルランド",
+       "ISO": "IE",
+       "year": 2000,
+       "value": 21.0
+    },
+    {
+       "ranking": 12,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2000,
+       "value": 20.6
+    },
+    {
+       "ranking": 13,
+       "country": "オーストリア",
+       "ISO": "AT",
+       "year": 2000,
+       "value": 20.0
+    },
+    {
+       "ranking": 13,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2000,
+       "value": 20.0
+    },
+    {
+       "ranking": 15,
+       "country": "スロベニア",
+       "ISO": "SI",
+       "year": 2000,
+       "value": 19.0
+    },
+    {
+       "ranking": 16,
+       "country": "チリ",
+       "ISO": "CL",
+       "year": 2000,
+       "value": 18.0
+    },
+    {
+       "ranking": 16,
+       "country": "エストニア",
+       "ISO": "EE",
+       "year": 2000,
+       "value": 18.0
+    },
+    {
+       "ranking": 16,
+       "country": "ギリシャ",
+       "ISO": "GR",
+       "year": 2000,
+       "value": 18.0
+    },
+    {
+       "ranking": 16,
+       "country": "ラトビア",
+       "ISO": "LV",
+       "year": 2000,
+       "value": 18.0
+    },
+    {
+       "ranking": 16,
+       "country": "リトアニア",
+       "ISO": "LT",
+       "year": 2000,
+       "value": 18.0
+    }
+ ]

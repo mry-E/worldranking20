@@ -1,0 +1,992 @@
+[
+	{
+		"country_code": "AD",
+		"lat": 42.5063174,
+		"lon": 1.5218355
+	},
+	{
+		"country_code": "AE",
+		"lat": 24.453884,
+		"lon": 54.3773438
+	},
+	{
+		"country_code": "AF",
+		"lat": 34.5553494,
+		"lon": 69.207486
+	},
+	{
+		"country_code": "AG",
+		"lat": 17.1274104,
+		"lon": -61.846772
+	},
+	{
+		"country_code": "AL",
+		"lat": 41.3275459,
+		"lon": 19.8186982
+	},
+	{
+		"country_code": "AM",
+		"lat": 40.1791857,
+		"lon": 44.4991029
+	},
+	{
+		"country_code": "AO",
+		"lat": -8.8399876,
+		"lon": 13.2894368
+	},
+	{
+		"country_code": "AR",
+		"lat": -34.6036844,
+		"lon": -58.3815591
+	},
+	{
+		"country_code": "AT",
+		"lat": 48.2081743,
+		"lon": 16.3738189
+	},
+	{
+		"country_code": "AU",
+		"lat": -35.308129,
+		"lon": 149.124402
+	},
+	{
+		"country_code": "AZ",
+		"lat": 40.4092617,
+		"lon": 49.8670924
+	},
+	{
+		"country_code": "BA",
+		"lat": 43.8562586,
+		"lon": 18.4130763
+	},
+	{
+		"country_code": "BB",
+		"lat": 13.0968511,
+		"lon": -59.6144819
+	},
+	{
+		"country_code": "BD",
+		"lat": 23.810332,
+		"lon": 90.4125181
+	},
+	{
+		"country_code": "BE",
+		"lat": 50.8503463,
+		"lon": 4.3517211
+	},
+	{
+		"country_code": "BF",
+		"lat": 12.3714277,
+		"lon": -1.5196603
+	},
+	{
+		"country_code": "BG",
+		"lat": 42.6977082,
+		"lon": 23.3218675
+	},
+	{
+		"country_code": "BH",
+		"lat": 26.2285161,
+		"lon": 50.5860497
+	},
+	{
+		"country_code": "BI",
+		"lat": -3.361378,
+		"lon": 29.3598782
+	},
+	{
+		"country_code": "BJ",
+		"lat": 6.4968574,
+		"lon": 2.6288523
+	},
+	{
+		"country_code": "BN",
+		"lat": 4.9030522,
+		"lon": 114.939821
+	},
+	{
+		"country_code": "BO",
+		"lat": -16.489689,
+		"lon": -68.1192936
+	},
+	{
+		"country_code": "BR",
+		"lat": -15.794392,
+		"lon": -47.882004
+	},
+	{
+		"country_code": "BS",
+		"lat": 25.0479835,
+		"lon": -77.355413
+	},
+	{
+		"country_code": "BT",
+		"lat": 27.4727924,
+		"lon": 89.6392863
+	},
+	{
+		"country_code": "BW",
+		"lat": -24.6282079,
+		"lon": 25.9231471
+	},
+	{
+		"country_code": "BY",
+		"lat": 53.9045398,
+		"lon": 27.5615244
+	},
+	{
+		"country_code": "BZ",
+		"lat": 17.2510114,
+		"lon": -88.7590201
+	},
+	{
+		"country_code": "CA",
+		"lat": 45.4215296,
+		"lon": -75.6971931
+	},
+	{
+		"country_code": "CD",
+		"lat": -4.4419311,
+		"lon": 15.2662931
+	},
+	{
+		"country_code": "CF",
+		"lat": 4.3946735,
+		"lon": 18.5581899
+	},
+	{
+		"country_code": "CG",
+		"lat": -4.2633597,
+		"lon": 15.2428853
+	},
+	{
+		"country_code": "CH",
+		"lat": 46.9479739,
+		"lon": 7.4474468
+	},
+	{
+		"country_code": "CI",
+		"lat": 6.8276228,
+		"lon": -5.2893433
+	},
+	{
+		"country_code": "CK",
+		"lat": -21.2129007,
+		"lon": -159.7823059
+	},
+	{
+		"country_code": "CL",
+		"lat": -33.4488897,
+		"lon": -70.6692655
+	},
+	{
+		"country_code": "CM",
+		"lat": 3.8480325,
+		"lon": 11.5020752
+	},
+	{
+		"country_code": "CN",
+		"lat": 39.9041999,
+		"lon": 116.4073963
+	},
+	{
+		"country_code": "CO",
+		"lat": 4.7109886,
+		"lon": -74.072092
+	},
+	{
+		"country_code": "CR",
+		"lat": 9.9280694,
+		"lon": -84.0907246
+	},
+	{
+		"country_code": "CU",
+		"lat": 23.1135925,
+		"lon": -82.3665956
+	},
+	{
+		"country_code": "CV",
+		"lat": 14.93305,
+		"lon": -23.5133267
+	},
+	{
+		"country_code": "CY",
+		"lat": 35.1855659,
+		"lon": 33.3822764
+	},
+	{
+		"country_code": "CZ",
+		"lat": 50.0755381,
+		"lon": 14.4378005
+	},
+	{
+		"country_code": "DE",
+		"lat": 52.5200066,
+		"lon": 13.404954
+	},
+	{
+		"country_code": "DJ",
+		"lat": 11.5720765,
+		"lon": 43.1456475
+	},
+	{
+		"country_code": "DK",
+		"lat": 55.6760968,
+		"lon": 12.5683372
+	},
+	{
+		"country_code": "DM",
+		"lat": 15.3091676,
+		"lon": -61.3793554
+	},
+	{
+		"country_code": "DO",
+		"lat": 18.4860575,
+		"lon": -69.9312117
+	},
+	{
+		"country_code": "DZ",
+		"lat": 36.753768,
+		"lon": 3.0587561
+	},
+	{
+		"country_code": "EC",
+		"lat": -0.1806532,
+		"lon": -78.4678382
+	},
+	{
+		"country_code": "EE",
+		"lat": 59.4369608,
+		"lon": 24.7535747
+	},
+	{
+		"country_code": "EG",
+		"lat": 30.0444196,
+		"lon": 31.2357116
+	},
+	{
+		"country_code": "ER",
+		"lat": 15.3228767,
+		"lon": 38.9250517
+	},
+	{
+		"country_code": "ES",
+		"lat": 40.4167754,
+		"lon": -3.7037902
+	},
+	{
+		"country_code": "ET",
+		"lat": 8.9806034,
+		"lon": 38.7577605
+	},
+	{
+		"country_code": "FI",
+		"lat": 60.1698557,
+		"lon": 24.9383791
+	},
+	{
+		"country_code": "FJ",
+		"lat": -18.1248086,
+		"lon": 178.4500789
+	},
+	{
+		"country_code": "FM",
+		"lat": 6.9147118,
+		"lon": 158.1610274
+	},
+	{
+		"country_code": "FR",
+		"lat": 48.856614,
+		"lon": 2.3522219
+	},
+	{
+		"country_code": "GA",
+		"lat": 0.4161976,
+		"lon": 9.4672676
+	},
+	{
+		"country_code": "GB",
+		"lat": 51.5073509,
+		"lon": -0.1277583
+	},
+	{
+		"country_code": "GD",
+		"lat": 12.0560975,
+		"lon": -61.7487996
+	},
+	{
+		"country_code": "GE",
+		"lat": 41.7151377,
+		"lon": 44.827096
+	},
+	{
+		"country_code": "GH",
+		"lat": 5.6037168,
+		"lon": -0.1869644
+	},
+	{
+		"country_code": "GM",
+		"lat": 13.4548761,
+		"lon": -16.5790323
+	},
+	{
+		"country_code": "GN",
+		"lat": 9.6411855,
+		"lon": -13.5784012
+	},
+	{
+		"country_code": "GQ",
+		"lat": 3.7504118,
+		"lon": 8.7371039
+	},
+	{
+		"country_code": "GR",
+		"lat": 37.9838096,
+		"lon": 23.7275388
+	},
+	{
+		"country_code": "GT",
+		"lat": 14.6349149,
+		"lon": -90.5068824
+	},
+	{
+		"country_code": "GW",
+		"lat": 11.8816553,
+		"lon": -15.6177942
+	},
+	{
+		"country_code": "GY",
+		"lat": 6.8012793,
+		"lon": -58.1551255
+	},
+	{
+		"country_code": "HN",
+		"lat": 14.0722751,
+		"lon": -87.192136
+	},
+	{
+		"country_code": "HR",
+		"lat": 45.8150108,
+		"lon": 15.9819189
+	},
+	{
+		"country_code": "HT",
+		"lat": 18.594395,
+		"lon": -72.3074326
+	},
+	{
+		"country_code": "HU",
+		"lat": 47.497912,
+		"lon": 19.040235
+	},
+	{
+		"country_code": "ID",
+		"lat": -6.2087634,
+		"lon": 106.845599
+	},
+	{
+		"country_code": "IE",
+		"lat": 53.3498053,
+		"lon": -6.2603097
+	},
+	{
+		"country_code": "IL",
+		"lat": 31.768319,
+		"lon": 35.21371
+	},
+	{
+		"country_code": "IN",
+		"lat": 28.6139391,
+		"lon": 77.2090212
+	},
+	{
+		"country_code": "IQ",
+		"lat": 33.3128057,
+		"lon": 44.3614875
+	},
+	{
+		"country_code": "IR",
+		"lat": 35.6891975,
+		"lon": 51.3889736
+	},
+	{
+		"country_code": "IS",
+		"lat": 64.1265206,
+		"lon": -21.8174392
+	},
+	{
+		"country_code": "IT",
+		"lat": 41.9027835,
+		"lon": 12.4963655
+	},
+	{
+		"country_code": "JM",
+		"lat": 18.0178743,
+		"lon": -76.8099041
+	},
+	{
+		"country_code": "JO",
+		"lat": 31.9453666,
+		"lon": 35.9283716
+	},
+	{
+		"country_code": "JP",
+		"lat": 35.689444,
+		"lon": 139.69167
+	},
+	{
+		"country_code": "KE",
+		"lat": -1.2920659,
+		"lon": 36.8219462
+	},
+	{
+		"country_code": "KG",
+		"lat": 42.8746212,
+		"lon": 74.5697617
+	},
+	{
+		"country_code": "KH",
+		"lat": 11.5563738,
+		"lon": 104.9282099
+	},
+	{
+		"country_code": "KI",
+		"lat": 1.4518171,
+		"lon": 172.9716617
+	},
+	{
+		"country_code": "KM",
+		"lat": -11.7172157,
+		"lon": 43.2473146
+	},
+	{
+		"country_code": "KN",
+		"lat": 17.3026058,
+		"lon": -62.7176924
+	},
+	{
+		"country_code": "KP",
+		"lat": 39.0392193,
+		"lon": 125.7625241
+	},
+	{
+		"country_code": "KR",
+		"lat": 37.552361,
+		"lon": 126.991432
+	},
+	{
+		"country_code": "KS",
+		"lat": 42.6629138,
+		"lon": 21.1655028
+	},
+	{
+		"country_code": "KW",
+		"lat": 29.375859,
+		"lon": 47.9774052
+	},
+	{
+		"country_code": "KZ",
+		"lat": 51.1605227,
+		"lon": 71.4703558
+	},
+	{
+		"country_code": "LA",
+		"lat": 17.9757058,
+		"lon": 102.6331035
+	},
+	{
+		"country_code": "LB",
+		"lat": 33.8937913,
+		"lon": 35.5017767
+	},
+	{
+		"country_code": "LC",
+		"lat": 14.0101094,
+		"lon": -60.9874687
+	},
+	{
+		"country_code": "LI",
+		"lat": 47.1410303,
+		"lon": 9.5209277
+	},
+	{
+		"country_code": "LK",
+		"lat": 6.8867616,
+		"lon": 79.9187142
+	},
+	{
+		"country_code": "LR",
+		"lat": 6.2907432,
+		"lon": -10.7605239
+	},
+	{
+		"country_code": "LS",
+		"lat": -29.3150767,
+		"lon": 27.4869229
+	},
+	{
+		"country_code": "LT",
+		"lat": 54.6871555,
+		"lon": 25.2796514
+	},
+	{
+		"country_code": "LU",
+		"lat": 49.611621,
+		"lon": 6.1319346
+	},
+	{
+		"country_code": "LV",
+		"lat": 56.9496487,
+		"lon": 24.1051865
+	},
+	{
+		"country_code": "LY",
+		"lat": 32.8872094,
+		"lon": 13.1913383
+	},
+	{
+		"country_code": "MA",
+		"lat": 33.9715904,
+		"lon": -6.8498129
+	},
+	{
+		"country_code": "MC",
+		"lat": 43.737247,
+		"lon": 7.420681
+	},
+	{
+		"country_code": "MD",
+		"lat": 47.0104529,
+		"lon": 28.8638102
+	},
+	{
+		"country_code": "ME",
+		"lat": 42.4304196,
+		"lon": 19.2593642
+	},
+	{
+		"country_code": "MG",
+		"lat": -18.8791902,
+		"lon": 47.5079055
+	},
+	{
+		"country_code": "MH",
+		"lat": 7.1164214,
+		"lon": 171.1857736
+	},
+	{
+		"country_code": "MK",
+		"lat": 41.9973462,
+		"lon": 21.4279956
+	},
+	{
+		"country_code": "ML",
+		"lat": 12.6392316,
+		"lon": -8.0028892
+	},
+	{
+		"country_code": "MM",
+		"lat": 19.7633057,
+		"lon": 96.0785104
+	},
+	{
+		"country_code": "MN",
+		"lat": 47.8863988,
+		"lon": 106.9057439
+	},
+	{
+		"country_code": "MR",
+		"lat": 18.0735299,
+		"lon": -15.9582372
+	},
+	{
+		"country_code": "MT",
+		"lat": 35.8989085,
+		"lon": 14.5145528
+	},
+	{
+		"country_code": "MU",
+		"lat": -20.1608912,
+		"lon": 57.5012222
+	},
+	{
+		"country_code": "MV",
+		"lat": 4.1754959,
+		"lon": 73.5093474
+	},
+	{
+		"country_code": "MW",
+		"lat": -13.9626121,
+		"lon": 33.7741195
+	},
+	{
+		"country_code": "MX",
+		"lat": 19.4326077,
+		"lon": -99.133208
+	},
+	{
+		"country_code": "MY",
+		"lat": 3.139003,
+		"lon": 101.686855
+	},
+	{
+		"country_code": "MZ",
+		"lat": -25.969248,
+		"lon": 32.5731746
+	},
+	{
+		"country_code": "NA",
+		"lat": -22.5608807,
+		"lon": 17.0657549
+	},
+	{
+		"country_code": "NE",
+		"lat": 13.5115963,
+		"lon": 2.1253854
+	},
+	{
+		"country_code": "NG",
+		"lat": 9.0764785,
+		"lon": 7.398574
+	},
+	{
+		"country_code": "NI",
+		"lat": 12.1149926,
+		"lon": -86.2361744
+	},
+	{
+		"country_code": "NL",
+		"lat": 52.3702157,
+		"lon": 4.8951679
+	},
+	{
+		"country_code": "NO",
+		"lat": 59.9138688,
+		"lon": 10.7522454
+	},
+	{
+		"country_code": "NP",
+		"lat": 27.7172453,
+		"lon": 85.3239605
+	},
+	{
+		"country_code": "NR",
+		"lat": -0.5466857,
+		"lon": 166.9210913
+	},
+	{
+		"country_code": "NU",
+		"lat": -19.0553711,
+		"lon": -169.9178709
+	},
+	{
+		"country_code": "NZ",
+		"lat": -41.2864603,
+		"lon": 174.776236
+	},
+	{
+		"country_code": "OM",
+		"lat": 23.58589,
+		"lon": 58.4059227
+	},
+	{
+		"country_code": "PA",
+		"lat": 8.9823792,
+		"lon": -79.5198696
+	},
+	{
+		"country_code": "PE",
+		"lat": -12.0463731,
+		"lon": -77.042754
+	},
+	{
+		"country_code": "PG",
+		"lat": -9.4438004,
+		"lon": 147.1802671
+	},
+	{
+		"country_code": "PH",
+		"lat": 14.5995124,
+		"lon": 120.9842195
+	},
+	{
+		"country_code": "PK",
+		"lat": 33.6844202,
+		"lon": 73.0478848
+	},
+	{
+		"country_code": "PL",
+		"lat": 52.2296756,
+		"lon": 21.0122287
+	},
+	{
+		"country_code": "PT",
+		"lat": 38.7222524,
+		"lon": -9.1393366
+	},
+	{
+		"country_code": "PW",
+		"lat": 7.4951158,
+		"lon": 134.6336896
+	},
+	{
+		"country_code": "PY",
+		"lat": -25.2637399,
+		"lon": -57.575926
+	},
+	{
+		"country_code": "QA",
+		"lat": 25.2854473,
+		"lon": 51.5310398
+	},
+	{
+		"country_code": "RO",
+		"lat": 44.4267674,
+		"lon": 26.1025384
+	},
+	{
+		"country_code": "RS",
+		"lat": 44.786568,
+		"lon": 20.4489216
+	},
+	{
+		"country_code": "RU",
+		"lat": 55.755826,
+		"lon": 37.6172999
+	},
+	{
+		"country_code": "RW",
+		"lat": -1.9705786,
+		"lon": 30.1044288
+	},
+	{
+		"country_code": "SA",
+		"lat": 24.7135517,
+		"lon": 46.6752957
+	},
+	{
+		"country_code": "SB",
+		"lat": -9.4456381,
+		"lon": 159.9728999
+	},
+	{
+		"country_code": "SC",
+		"lat": -4.619143,
+		"lon": 55.4513149
+	},
+	{
+		"country_code": "SD",
+		"lat": 15.5006544,
+		"lon": 32.5598994
+	},
+	{
+		"country_code": "SE",
+		"lat": 59.3293235,
+		"lon": 18.0685808
+	},
+	{
+		"country_code": "SG",
+		"lat": 1.355429,
+		"lon": 103.867722
+	},
+	{
+		"country_code": "SI",
+		"lat": 46.0569465,
+		"lon": 14.5057515
+	},
+	{
+		"country_code": "SK",
+		"lat": 48.1485965,
+		"lon": 17.1077478
+	},
+	{
+		"country_code": "SL",
+		"lat": 8.4656765,
+		"lon": -13.2317225
+	},
+	{
+		"country_code": "SM",
+		"lat": 43.9355907,
+		"lon": 12.4472806
+	},
+	{
+		"country_code": "SN",
+		"lat": 14.716677,
+		"lon": -17.4676861
+	},
+	{
+		"country_code": "SO",
+		"lat": 2.0469343,
+		"lon": 45.3181623
+	},
+	{
+		"country_code": "SR",
+		"lat": 5.8520355,
+		"lon": -55.2038278
+	},
+	{
+		"country_code": "SS",
+		"lat": 4.859363,
+		"lon": 31.57125
+	},
+	{
+		"country_code": "ST",
+		"lat": 0.3301924,
+		"lon": 6.733343
+	},
+	{
+		"country_code": "SV",
+		"lat": 13.6929403,
+		"lon": -89.2181911
+	},
+	{
+		"country_code": "SY",
+		"lat": 33.5138073,
+		"lon": 36.2765279
+	},
+	{
+		"country_code": "SZ",
+		"lat": -26.3054482,
+		"lon": 31.1366715
+	},
+	{
+		"country_code": "TD",
+		"lat": 12.1348457,
+		"lon": 15.0557415
+	},
+	{
+		"country_code": "TG",
+		"lat": 6.1724969,
+		"lon": 1.2313618
+	},
+	{
+		"country_code": "TH",
+		"lat": 13.7563309,
+		"lon": 100.5017651
+	},
+	{
+		"country_code": "TJ",
+		"lat": 38.5597722,
+		"lon": 68.7870384
+	},
+	{
+		"country_code": "TL",
+		"lat": -8.5568557,
+		"lon": 125.5603143
+	},
+	{
+		"country_code": "TM",
+		"lat": 37.9600766,
+		"lon": 58.3260629
+	},
+	{
+		"country_code": "TN",
+		"lat": 36.8064948,
+		"lon": 10.1815316
+	},
+	{
+		"country_code": "TO",
+		"lat": -21.1393418,
+		"lon": -175.204947
+	},
+	{
+		"country_code": "TR",
+		"lat": 39.9333635,
+		"lon": 32.8597419
+	},
+	{
+		"country_code": "TT",
+		"lat": 10.6549013,
+		"lon": -61.5019256
+	},
+	{
+		"country_code": "TV",
+		"lat": -8.5211471,
+		"lon": 179.1961926
+	},
+	{
+		"country_code": "TW",
+		"lat": 25.0329694,
+		"lon": 121.5654177
+	},
+	{
+		"country_code": "TZ",
+		"lat": -6.162959,
+		"lon": 35.7516069
+	},
+	{
+		"country_code": "UA",
+		"lat": 50.4501,
+		"lon": 30.5234
+	},
+	{
+		"country_code": "UG",
+		"lat": 0.3475964,
+		"lon": 32.5825197
+	},
+	{
+		"country_code": "US",
+		"lat": 38.9071923,
+		"lon": -77.0368707
+	},
+	{
+		"country_code": "UY",
+		"lat": -34.9011127,
+		"lon": -56.1645314
+	},
+	{
+		"country_code": "UZ",
+		"lat": 41.2994958,
+		"lon": 69.2400734
+	},
+	{
+		"country_code": "VA",
+		"lat": 41.902916,
+		"lon": 12.453389
+	},
+	{
+		"country_code": "VC",
+		"lat": 13.1600249,
+		"lon": -61.2248157
+	},
+	{
+		"country_code": "VE",
+		"lat": 10.4805937,
+		"lon": -66.9036063
+	},
+	{
+		"country_code": "VN",
+		"lat": 21.0277644,
+		"lon": 105.8341598
+	},
+	{
+		"country_code": "VU",
+		"lat": -17.7332512,
+		"lon": 168.3273245
+	},
+	{
+		"country_code": "WS",
+		"lat": -13.8506958,
+		"lon": -171.7513551
+	},
+	{
+		"country_code": "YE",
+		"lat": 15.3694451,
+		"lon": 44.1910066
+	},
+	{
+		"country_code": "ZA",
+		"lat": -25.7478676,
+		"lon": 28.2292712
+	},
+	{
+		"country_code": "ZM",
+		"lat": -15.3875259,
+		"lon": 28.3228165
+	},
+	{
+		"country_code": "ZW",
+		"lat": -17.8251657,
+		"lon": 31.03351
+	}
+]

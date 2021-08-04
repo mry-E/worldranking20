@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "中国",
+       "ISO": "CN",
+       "year": 2015,
+       "value": 9274.76082
+    },
+    {
+       "ranking": 2,
+       "country": "米国",
+       "ISO": "US",
+       "year": 2015,
+       "value": 5141.3431762
+    },
+    {
+       "ranking": 3,
+       "country": "インド",
+       "ISO": "IN",
+       "year": 2015,
+       "value": 2146.5264098
+    },
+    {
+       "ranking": 4,
+       "country": "ロシア",
+       "ISO": "RU",
+       "year": 2015,
+       "value": 1506.9952396
+    },
+    {
+       "ranking": 5,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2015,
+       "value": 1207.0160999
+    },
+    {
+       "ranking": 6,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2015,
+       "value": 755.6309982
+    },
+    {
+       "ranking": 7,
+       "country": "韓国",
+       "ISO": "KR",
+       "year": 2015,
+       "value": 609.3788574
+    },
+    {
+       "ranking": 8,
+       "country": "サウジアラビア",
+       "ISO": "SA",
+       "year": 2015,
+       "value": 586.8733184
+    },
+    {
+       "ranking": 9,
+       "country": "カナダ",
+       "ISO": "CA",
+       "year": 2015,
+       "value": 566.2866725
+    },
+    {
+       "ranking": 10,
+       "country": "イラン",
+       "ISO": "IR",
+       "year": 2015,
+       "value": 551.2467704
+    },
+    {
+       "ranking": 11,
+       "country": "インドネシア",
+       "ISO": "ID",
+       "year": 2015,
+       "value": 496.4604864
+    },
+    {
+       "ranking": 12,
+       "country": "ブラジル",
+       "ISO": "BR",
+       "year": 2015,
+       "value": 487.6430225
+    },
+    {
+       "ranking": 13,
+       "country": "メキシコ",
+       "ISO": "MX",
+       "year": 2015,
+       "value": 463.1219483
+    },
+    {
+       "ranking": 14,
+       "country": "南アフリカ",
+       "ISO": "ZA",
+       "year": 2015,
+       "value": 455.0705654
+    },
+    {
+       "ranking": 15,
+       "country": "イギリス",
+       "ISO": "GB",
+       "year": 2015,
+       "value": 437.7663591
+    },
+    {
+       "ranking": 16,
+       "country": "オーストラリア",
+       "ISO": "AU",
+       "year": 2015,
+       "value": 403.0572192
+    },
+    {
+       "ranking": 17,
+       "country": "トルコ",
+       "ISO": "TR",
+       "year": 2015,
+       "value": 340.5702574
+    },
+    {
+       "ranking": 18,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2015,
+       "value": 334.3757022
+    },
+    {
+       "ranking": 19,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2015,
+       "value": 307.1797509
+    },
+    {
+       "ranking": 20,
+       "country": "ポーランド",
+       "ISO": "PL",
+       "year": 2015,
+       "value": 293.3245606
+    }
+ ]

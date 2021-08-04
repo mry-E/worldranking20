@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "中国",
+       "ISO": "CN",
+       "year": 2010,
+       "value": 1368810.615
+    },
+    {
+       "ranking": 2,
+       "country": "インド",
+       "ISO": "IN",
+       "year": 2010,
+       "value": 1234281.17
+    },
+    {
+       "ranking": 3,
+       "country": "米国",
+       "ISO": "US",
+       "year": 2010,
+       "value": 309011.475
+    },
+    {
+       "ranking": 4,
+       "country": "インドネシア",
+       "ISO": "ID",
+       "year": 2010,
+       "value": 241834.215
+    },
+    {
+       "ranking": 5,
+       "country": "ブラジル",
+       "ISO": "BR",
+       "year": 2010,
+       "value": 195713.635
+    },
+    {
+       "ranking": 6,
+       "country": "パキスタン",
+       "ISO": "PK",
+       "year": 2010,
+       "value": 179424.641
+    },
+    {
+       "ranking": 7,
+       "country": "ナイジェリア",
+       "ISO": "NG",
+       "year": 2010,
+       "value": 158503.197
+    },
+    {
+       "ranking": 8,
+       "country": "バングラデシュ",
+       "ISO": "BD",
+       "year": 2010,
+       "value": 147575.43
+    },
+    {
+       "ranking": 9,
+       "country": "ロシア",
+       "ISO": "RU",
+       "year": 2010,
+       "value": 143479.274
+    },
+    {
+       "ranking": 10,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2010,
+       "value": 128542.353
+    },
+    {
+       "ranking": 11,
+       "country": "メキシコ",
+       "ISO": "MX",
+       "year": 2010,
+       "value": 114092.963
+    },
+    {
+       "ranking": 12,
+       "country": "フィリピン",
+       "ISO": "PH",
+       "year": 2010,
+       "value": 93966.78
+    },
+    {
+       "ranking": 13,
+       "country": "ベトナム",
+       "ISO": "VN",
+       "year": 2010,
+       "value": 87967.651
+    },
+    {
+       "ranking": 14,
+       "country": "エチオピア",
+       "ISO": "ET",
+       "year": 2010,
+       "value": 87639.964
+    },
+    {
+       "ranking": 15,
+       "country": "エジプト",
+       "ISO": "EG",
+       "year": 2010,
+       "value": 82761.235
+    },
+    {
+       "ranking": 16,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2010,
+       "value": 80827.002
+    },
+    {
+       "ranking": 17,
+       "country": "イラン",
+       "ISO": "IR",
+       "year": 2010,
+       "value": 73762.519
+    },
+    {
+       "ranking": 18,
+       "country": "トルコ",
+       "ISO": "TR",
+       "year": 2010,
+       "value": 72326.988
+    },
+    {
+       "ranking": 19,
+       "country": "タイ",
+       "ISO": "TH",
+       "year": 2010,
+       "value": 67195.028
+    },
+    {
+       "ranking": 20,
+       "country": "コンゴ民主共和国",
+       "ISO": "CD",
+       "year": 2010,
+       "value": 64563.854
+    }
+ ]

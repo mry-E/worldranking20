@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "ハンガリー",
+       "ISO": "HU",
+       "year": 2019,
+       "value": 27.0
+    },
+    {
+       "ranking": 2,
+       "country": "デンマーク",
+       "ISO": "DK",
+       "year": 2019,
+       "value": 25.0
+    },
+    {
+       "ranking": 2,
+       "country": "ノルウェー",
+       "ISO": "NO",
+       "year": 2019,
+       "value": 25.0
+    },
+    {
+       "ranking": 2,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2019,
+       "value": 25.0
+    },
+    {
+       "ranking": 5,
+       "country": "フィンランド",
+       "ISO": "FI",
+       "year": 2019,
+       "value": 24.0
+    },
+    {
+       "ranking": 5,
+       "country": "ギリシャ",
+       "ISO": "GR",
+       "year": 2019,
+       "value": 24.0
+    },
+    {
+       "ranking": 5,
+       "country": "アイスランド",
+       "ISO": "IS",
+       "year": 2019,
+       "value": 24.0
+    },
+    {
+       "ranking": 8,
+       "country": "アイルランド",
+       "ISO": "IE",
+       "year": 2019,
+       "value": 23.0
+    },
+    {
+       "ranking": 8,
+       "country": "ポーランド",
+       "ISO": "PL",
+       "year": 2019,
+       "value": 23.0
+    },
+    {
+       "ranking": 8,
+       "country": "ポルトガル",
+       "ISO": "PT",
+       "year": 2019,
+       "value": 23.0
+    },
+    {
+       "ranking": 11,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2019,
+       "value": 22.0
+    },
+    {
+       "ranking": 11,
+       "country": "スロベニア",
+       "ISO": "SI",
+       "year": 2019,
+       "value": 22.0
+    },
+    {
+       "ranking": 13,
+       "country": "ベルギー",
+       "ISO": "BE",
+       "year": 2019,
+       "value": 21.0
+    },
+    {
+       "ranking": 13,
+       "country": "チェコ",
+       "ISO": "CZ",
+       "year": 2019,
+       "value": 21.0
+    },
+    {
+       "ranking": 13,
+       "country": "ラトビア",
+       "ISO": "LV",
+       "year": 2019,
+       "value": 21.0
+    },
+    {
+       "ranking": 13,
+       "country": "リトアニア",
+       "ISO": "LT",
+       "year": 2019,
+       "value": 21.0
+    },
+    {
+       "ranking": 13,
+       "country": "オランダ",
+       "ISO": "NL",
+       "year": 2019,
+       "value": 21.0
+    },
+    {
+       "ranking": 13,
+       "country": "スペイン",
+       "ISO": "ES",
+       "year": 2019,
+       "value": 21.0
+    },
+    {
+       "ranking": 19,
+       "country": "オーストリア",
+       "ISO": "AT",
+       "year": 2019,
+       "value": 20.0
+    },
+    {
+       "ranking": 19,
+       "country": "エストニア",
+       "ISO": "EE",
+       "year": 2019,
+       "value": 20.0
+    }
+ ]

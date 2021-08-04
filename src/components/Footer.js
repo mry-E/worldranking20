@@ -8,7 +8,8 @@ const Footer = () => {
               GLOBAL NOTE-国際統計・国別統計専門サイト
             </a>
             から取得しています。
-            </p>
+          </p>
+          <p>moriya</p>
         </div>
       </footer>
     );

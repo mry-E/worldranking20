@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "米国",
+       "ISO": "US",
+       "year": 2000,
+       "value": 10252347.0
+    },
+    {
+       "ranking": 2,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2000,
+       "value": 4887519.7363336
+    },
+    {
+       "ranking": 3,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2000,
+       "value": 1943143.8923101
+    },
+    {
+       "ranking": 4,
+       "country": "イギリス",
+       "ISO": "GB",
+       "year": 2000,
+       "value": 1658116.0156698
+    },
+    {
+       "ranking": 5,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2000,
+       "value": 1362247.894595
+    },
+    {
+       "ranking": 6,
+       "country": "中国",
+       "ISO": "CN",
+       "year": 2000,
+       "value": 1211331.1533232
+    },
+    {
+       "ranking": 7,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2000,
+       "value": 1143828.9541267
+    },
+    {
+       "ranking": 8,
+       "country": "カナダ",
+       "ISO": "CA",
+       "year": 2000,
+       "value": 744773.7878002
+    },
+    {
+       "ranking": 9,
+       "country": "メキシコ",
+       "ISO": "MX",
+       "year": 2000,
+       "value": 707909.8640217
+    },
+    {
+       "ranking": 10,
+       "country": "ブラジル",
+       "ISO": "BR",
+       "year": 2000,
+       "value": 652360.0925448
+    },
+    {
+       "ranking": 11,
+       "country": "スペイン",
+       "ISO": "ES",
+       "year": 2000,
+       "value": 596877.1905309
+    },
+    {
+       "ranking": 12,
+       "country": "韓国",
+       "ISO": "KR",
+       "year": 2000,
+       "value": 576179.3878196
+    },
+    {
+       "ranking": 13,
+       "country": "インド",
+       "ISO": "IN",
+       "year": 2000,
+       "value": 476148.0349069
+    },
+    {
+       "ranking": 14,
+       "country": "オランダ",
+       "ISO": "NL",
+       "year": 2000,
+       "value": 416442.4663392
+    },
+    {
+       "ranking": 15,
+       "country": "オーストラリア",
+       "ISO": "AU",
+       "year": 2000,
+       "value": 408774.9880181
+    },
+    {
+       "ranking": 16,
+       "country": "台湾",
+       "ISO": "TW",
+       "year": 2000,
+       "value": 330725.2321485
+    },
+    {
+       "ranking": 17,
+       "country": "アルゼンチン",
+       "ISO": "AR",
+       "year": 2000,
+       "value": 308148.2334667
+    },
+    {
+       "ranking": 18,
+       "country": "スイス",
+       "ISO": "CH",
+       "year": 2000,
+       "value": 279834.1094566
+    },
+    {
+       "ranking": 19,
+       "country": "トルコ",
+       "ISO": "TR",
+       "year": 2000,
+       "value": 274294.842523
+    },
+    {
+       "ranking": 20,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2000,
+       "value": 262834.1873665
+    }
+ ]

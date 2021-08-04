@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "スイス",
+       "ISO": "CH",
+       "year": 2019,
+       "value": 94099.3987645
+    },
+    {
+       "ranking": 2,
+       "country": "アイスランド",
+       "ISO": "IS",
+       "year": 2019,
+       "value": 81388.3951402
+    },
+    {
+       "ranking": 3,
+       "country": "ルクセンブルク",
+       "ISO": "LU",
+       "year": 2019,
+       "value": 76035.4273099
+    },
+    {
+       "ranking": 4,
+       "country": "デンマーク",
+       "ISO": "DK",
+       "year": 2019,
+       "value": 67864.4933547
+    },
+    {
+       "ranking": 5,
+       "country": "米国",
+       "ISO": "US",
+       "year": 2019,
+       "value": 66382.5055522
+    },
+    {
+       "ranking": 6,
+       "country": "ノルウェー",
+       "ISO": "NO",
+       "year": 2019,
+       "value": 62889.6984297
+    },
+    {
+       "ranking": 7,
+       "country": "オーストラリア",
+       "ISO": "AU",
+       "year": 2019,
+       "value": 58903.7920584
+    },
+    {
+       "ranking": 8,
+       "country": "アイルランド",
+       "ISO": "IE",
+       "year": 2019,
+       "value": 56346.598265
+    },
+    {
+       "ranking": 9,
+       "country": "オランダ",
+       "ISO": "NL",
+       "year": 2019,
+       "value": 55989.0145877
+    },
+    {
+       "ranking": 10,
+       "country": "ベルギー",
+       "ISO": "BE",
+       "year": 2019,
+       "value": 53983.3422785
+    },
+    {
+       "ranking": 11,
+       "country": "カナダ",
+       "ISO": "CA",
+       "year": 2019,
+       "value": 52688.277706
+    },
+    {
+       "ranking": 12,
+       "country": "オーストリア",
+       "ISO": "AT",
+       "year": 2019,
+       "value": 51694.9590536
+    },
+    {
+       "ranking": 13,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2019,
+       "value": 48917.987047
+    },
+    {
+       "ranking": 14,
+       "country": "フィンランド",
+       "ISO": "FI",
+       "year": 2019,
+       "value": 48870.7019967
+    },
+    {
+       "ranking": 15,
+       "country": "イギリス",
+       "ISO": "GB",
+       "year": 2019,
+       "value": 48212.6329247
+    },
+    {
+       "ranking": 16,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2019,
+       "value": 48131.4013723
+    },
+    {
+       "ranking": 17,
+       "country": "イスラエル",
+       "ISO": "IL",
+       "year": 2019,
+       "value": 47182.0415517
+    },
+    {
+       "ranking": 18,
+       "country": "ニュージーランド",
+       "ISO": "NZ",
+       "year": 2019,
+       "value": 47007.0290082
+    },
+    {
+       "ranking": 19,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2019,
+       "value": 44953.8439667
+    },
+    {
+       "ranking": 20,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2019,
+       "value": 41726.3493255
+    }
+ ]

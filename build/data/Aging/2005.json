@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2005,
+       "value": 19.6597661
+    },
+    {
+       "ranking": 2,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2005,
+       "value": 19.6523519
+    },
+    {
+       "ranking": 3,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2005,
+       "value": 18.8683245
+    },
+    {
+       "ranking": 4,
+       "country": "ギリシャ",
+       "ISO": "GR",
+       "year": 2005,
+       "value": 17.9131174
+    },
+    {
+       "ranking": 5,
+       "country": "ブルガリア",
+       "ISO": "BG",
+       "year": 2005,
+       "value": 17.3507687
+    },
+    {
+       "ranking": 6,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2005,
+       "value": 17.3066074
+    },
+    {
+       "ranking": 7,
+       "country": "ベルギー",
+       "ISO": "BE",
+       "year": 2005,
+       "value": 17.2910563
+    },
+    {
+       "ranking": 8,
+       "country": "クロアチア",
+       "ISO": "HR",
+       "year": 2005,
+       "value": 17.247533
+    },
+    {
+       "ranking": 9,
+       "country": "ポルトガル",
+       "ISO": "PT",
+       "year": 2005,
+       "value": 17.2039764
+    },
+    {
+       "ranking": 10,
+       "country": "ラトビア",
+       "ISO": "LV",
+       "year": 2005,
+       "value": 16.8578232
+    },
+    {
+       "ranking": 11,
+       "country": "エストニア",
+       "ISO": "EE",
+       "year": 2005,
+       "value": 16.7550868
+    },
+    {
+       "ranking": 12,
+       "country": "スペイン",
+       "ISO": "ES",
+       "year": 2005,
+       "value": 16.6780219
+    },
+    {
+       "ranking": 13,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2005,
+       "value": 16.4718996
+    },
+    {
+       "ranking": 14,
+       "country": "オーストリア",
+       "ISO": "AT",
+       "year": 2005,
+       "value": 16.1973187
+    },
+    {
+       "ranking": 15,
+       "country": "イギリス",
+       "ISO": "GB",
+       "year": 2005,
+       "value": 16.0356213
+    },
+    {
+       "ranking": 16,
+       "country": "フィンランド",
+       "ISO": "FI",
+       "year": 2005,
+       "value": 16.0270526
+    },
+    {
+       "ranking": 17,
+       "country": "リトアニア",
+       "ISO": "LT",
+       "year": 2005,
+       "value": 15.98583
+    },
+    {
+       "ranking": 18,
+       "country": "ウクライナ",
+       "ISO": "UA",
+       "year": 2005,
+       "value": 15.8879789
+    },
+    {
+       "ranking": 19,
+       "country": "スイス",
+       "ISO": "CH",
+       "year": 2005,
+       "value": 15.7835662
+    },
+    {
+       "ranking": 20,
+       "country": "ハンガリー",
+       "ISO": "HU",
+       "year": 2005,
+       "value": 15.6187372
+    }
+ ]
