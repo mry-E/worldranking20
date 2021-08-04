@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "中国",
+       "ISO": "CN",
+       "year": 2005,
+       "value": 1330776.38
+    },
+    {
+       "ranking": 2,
+       "country": "インド",
+       "ISO": "IN",
+       "year": 2005,
+       "value": 1147609.927
+    },
+    {
+       "ranking": 3,
+       "country": "米国",
+       "ISO": "US",
+       "year": 2005,
+       "value": 294993.511
+    },
+    {
+       "ranking": 4,
+       "country": "インドネシア",
+       "ISO": "ID",
+       "year": 2005,
+       "value": 226289.47
+    },
+    {
+       "ranking": 5,
+       "country": "ブラジル",
+       "ISO": "BR",
+       "year": 2005,
+       "value": 186127.103
+    },
+    {
+       "ranking": 6,
+       "country": "パキスタン",
+       "ISO": "PK",
+       "year": 2005,
+       "value": 160304.008
+    },
+    {
+       "ranking": 7,
+       "country": "ロシア",
+       "ISO": "RU",
+       "year": 2005,
+       "value": 143672.116
+    },
+    {
+       "ranking": 8,
+       "country": "バングラデシュ",
+       "ISO": "BD",
+       "year": 2005,
+       "value": 139035.505
+    },
+    {
+       "ranking": 9,
+       "country": "ナイジェリア",
+       "ISO": "NG",
+       "year": 2005,
+       "value": 138865.016
+    },
+    {
+       "ranking": 10,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2005,
+       "value": 128326.116
+    },
+    {
+       "ranking": 11,
+       "country": "メキシコ",
+       "ISO": "MX",
+       "year": 2005,
+       "value": 106005.203
+    },
+    {
+       "ranking": 12,
+       "country": "フィリピン",
+       "ISO": "PH",
+       "year": 2005,
+       "value": 86326.25
+    },
+    {
+       "ranking": 13,
+       "country": "ベトナム",
+       "ISO": "VN",
+       "year": 2005,
+       "value": 83832.661
+    },
+    {
+       "ranking": 14,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2005,
+       "value": 81602.741
+    },
+    {
+       "ranking": 15,
+       "country": "エチオピア",
+       "ISO": "ET",
+       "year": 2005,
+       "value": 76346.311
+    },
+    {
+       "ranking": 16,
+       "country": "エジプト",
+       "ISO": "EG",
+       "year": 2005,
+       "value": 75523.569
+    },
+    {
+       "ranking": 17,
+       "country": "イラン",
+       "ISO": "IR",
+       "year": 2005,
+       "value": 69762.347
+    },
+    {
+       "ranking": 18,
+       "country": "トルコ",
+       "ISO": "TR",
+       "year": 2005,
+       "value": 67903.469
+    },
+    {
+       "ranking": 19,
+       "country": "タイ",
+       "ISO": "TH",
+       "year": 2005,
+       "value": 65416.189
+    },
+    {
+       "ranking": 20,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2005,
+       "value": 61120.127
+    }
+ ]

@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "デンマーク",
+       "ISO": "DK",
+       "year": 2005,
+       "value": 25.0
+    },
+    {
+       "ranking": 1,
+       "country": "ハンガリー",
+       "ISO": "HU",
+       "year": 2005,
+       "value": 25.0
+    },
+    {
+       "ranking": 1,
+       "country": "ノルウェー",
+       "ISO": "NO",
+       "year": 2005,
+       "value": 25.0
+    },
+    {
+       "ranking": 1,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2005,
+       "value": 25.0
+    },
+    {
+       "ranking": 5,
+       "country": "アイスランド",
+       "ISO": "IS",
+       "year": 2005,
+       "value": 24.5
+    },
+    {
+       "ranking": 6,
+       "country": "フィンランド",
+       "ISO": "FI",
+       "year": 2005,
+       "value": 22.0
+    },
+    {
+       "ranking": 6,
+       "country": "ポーランド",
+       "ISO": "PL",
+       "year": 2005,
+       "value": 22.0
+    },
+    {
+       "ranking": 8,
+       "country": "ベルギー",
+       "ISO": "BE",
+       "year": 2005,
+       "value": 21.0
+    },
+    {
+       "ranking": 8,
+       "country": "アイルランド",
+       "ISO": "IE",
+       "year": 2005,
+       "value": 21.0
+    },
+    {
+       "ranking": 10,
+       "country": "オーストリア",
+       "ISO": "AT",
+       "year": 2005,
+       "value": 20.0
+    },
+    {
+       "ranking": 10,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2005,
+       "value": 20.0
+    },
+    {
+       "ranking": 10,
+       "country": "スロベニア",
+       "ISO": "SI",
+       "year": 2005,
+       "value": 20.0
+    },
+    {
+       "ranking": 13,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2005,
+       "value": 19.6
+    },
+    {
+       "ranking": 14,
+       "country": "チリ",
+       "ISO": "CL",
+       "year": 2005,
+       "value": 19.0
+    },
+    {
+       "ranking": 14,
+       "country": "チェコ",
+       "ISO": "CZ",
+       "year": 2005,
+       "value": 19.0
+    },
+    {
+       "ranking": 14,
+       "country": "オランダ",
+       "ISO": "NL",
+       "year": 2005,
+       "value": 19.0
+    },
+    {
+       "ranking": 14,
+       "country": "ポルトガル",
+       "ISO": "PT",
+       "year": 2005,
+       "value": 19.0
+    },
+    {
+       "ranking": 14,
+       "country": "スロバキア",
+       "ISO": "SK",
+       "year": 2005,
+       "value": 19.0
+    },
+    {
+       "ranking": 19,
+       "country": "エストニア",
+       "ISO": "EE",
+       "year": 2005,
+       "value": 18.0
+    },
+    {
+       "ranking": 19,
+       "country": "ギリシャ",
+       "ISO": "GR",
+       "year": 2005,
+       "value": 18.0
+    }
+ ]

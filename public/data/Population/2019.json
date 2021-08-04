@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "中国",
+       "ISO": "CN",
+       "year": 2019,
+       "value": 1433783.686
+    },
+    {
+       "ranking": 2,
+       "country": "インド",
+       "ISO": "IN",
+       "year": 2019,
+       "value": 1366417.754
+    },
+    {
+       "ranking": 3,
+       "country": "米国",
+       "ISO": "US",
+       "year": 2019,
+       "value": 329064.917
+    },
+    {
+       "ranking": 4,
+       "country": "インドネシア",
+       "ISO": "ID",
+       "year": 2019,
+       "value": 270625.568
+    },
+    {
+       "ranking": 5,
+       "country": "パキスタン",
+       "ISO": "PK",
+       "year": 2019,
+       "value": 216565.318
+    },
+    {
+       "ranking": 6,
+       "country": "ブラジル",
+       "ISO": "BR",
+       "year": 2019,
+       "value": 211049.527
+    },
+    {
+       "ranking": 7,
+       "country": "ナイジェリア",
+       "ISO": "NG",
+       "year": 2019,
+       "value": 200963.599
+    },
+    {
+       "ranking": 8,
+       "country": "バングラデシュ",
+       "ISO": "BD",
+       "year": 2019,
+       "value": 163046.161
+    },
+    {
+       "ranking": 9,
+       "country": "ロシア",
+       "ISO": "RU",
+       "year": 2019,
+       "value": 145872.256
+    },
+    {
+       "ranking": 10,
+       "country": "メキシコ",
+       "ISO": "MX",
+       "year": 2019,
+       "value": 127575.529
+    },
+    {
+       "ranking": 11,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2019,
+       "value": 126860.301
+    },
+    {
+       "ranking": 12,
+       "country": "エチオピア",
+       "ISO": "ET",
+       "year": 2019,
+       "value": 112078.73
+    },
+    {
+       "ranking": 13,
+       "country": "フィリピン",
+       "ISO": "PH",
+       "year": 2019,
+       "value": 108116.615
+    },
+    {
+       "ranking": 14,
+       "country": "エジプト",
+       "ISO": "EG",
+       "year": 2019,
+       "value": 100388.073
+    },
+    {
+       "ranking": 15,
+       "country": "ベトナム",
+       "ISO": "VN",
+       "year": 2019,
+       "value": 96462.106
+    },
+    {
+       "ranking": 16,
+       "country": "コンゴ民主共和国",
+       "ISO": "CD",
+       "year": 2019,
+       "value": 86790.567
+    },
+    {
+       "ranking": 17,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2019,
+       "value": 83517.045
+    },
+    {
+       "ranking": 18,
+       "country": "トルコ",
+       "ISO": "TR",
+       "year": 2019,
+       "value": 83429.615
+    },
+    {
+       "ranking": 19,
+       "country": "イラン",
+       "ISO": "IR",
+       "year": 2019,
+       "value": 82913.906
+    },
+    {
+       "ranking": 20,
+       "country": "タイ",
+       "ISO": "TH",
+       "year": 2019,
+       "value": 69625.582
+    }
+ ]

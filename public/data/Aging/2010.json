@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2010,
+       "value": 22.4980711
+    },
+    {
+       "ranking": 2,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2010,
+       "value": 20.5527504
+    },
+    {
+       "ranking": 3,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2010,
+       "value": 20.4268389
+    },
+    {
+       "ranking": 4,
+       "country": "ギリシャ",
+       "ISO": "GR",
+       "year": 2010,
+       "value": 19.1518233
+    },
+    {
+       "ranking": 5,
+       "country": "ポルトガル",
+       "ISO": "PT",
+       "year": 2010,
+       "value": 18.6627234
+    },
+    {
+       "ranking": 6,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2010,
+       "value": 18.2185664
+    },
+    {
+       "ranking": 7,
+       "country": "ラトビア",
+       "ISO": "LV",
+       "year": 2010,
+       "value": 18.1786346
+    },
+    {
+       "ranking": 8,
+       "country": "ブルガリア",
+       "ISO": "BG",
+       "year": 2010,
+       "value": 18.0786741
+    },
+    {
+       "ranking": 9,
+       "country": "オーストリア",
+       "ISO": "AT",
+       "year": 2010,
+       "value": 17.7983837
+    },
+    {
+       "ranking": 10,
+       "country": "クロアチア",
+       "ISO": "HR",
+       "year": 2010,
+       "value": 17.5602362
+    },
+    {
+       "ranking": 11,
+       "country": "エストニア",
+       "ISO": "EE",
+       "year": 2010,
+       "value": 17.5240466
+    },
+    {
+       "ranking": 12,
+       "country": "ベルギー",
+       "ISO": "BE",
+       "year": 2010,
+       "value": 17.3340272
+    },
+    {
+       "ranking": 13,
+       "country": "リトアニア",
+       "ISO": "LT",
+       "year": 2010,
+       "value": 17.2713117
+    },
+    {
+       "ranking": 14,
+       "country": "フィンランド",
+       "ISO": "FI",
+       "year": 2010,
+       "value": 17.2295669
+    },
+    {
+       "ranking": 15,
+       "country": "スペイン",
+       "ISO": "ES",
+       "year": 2010,
+       "value": 17.0541804
+    },
+    {
+       "ranking": 16,
+       "country": "スイス",
+       "ISO": "CH",
+       "year": 2010,
+       "value": 16.8913676
+    },
+    {
+       "ranking": 17,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2010,
+       "value": 16.8520311
+    },
+    {
+       "ranking": 18,
+       "country": "スロベニア",
+       "ISO": "SI",
+       "year": 2010,
+       "value": 16.6889749
+    },
+    {
+       "ranking": 19,
+       "country": "デンマーク",
+       "ISO": "DK",
+       "year": 2010,
+       "value": 16.6677047
+    },
+    {
+       "ranking": 20,
+       "country": "イギリス",
+       "ISO": "GB",
+       "year": 2010,
+       "value": 16.5697444
+    }
+ ]

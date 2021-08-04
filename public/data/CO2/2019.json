@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "中国",
+       "ISO": "CN",
+       "year": 2019,
+       "value": 9806.0429049
+    },
+    {
+       "ranking": 2,
+       "country": "米国",
+       "ISO": "US",
+       "year": 2019,
+       "value": 4994.4880742
+    },
+    {
+       "ranking": 3,
+       "country": "インド",
+       "ISO": "IN",
+       "year": 2019,
+       "value": 2468.3688159
+    },
+    {
+       "ranking": 4,
+       "country": "ロシア",
+       "ISO": "RU",
+       "year": 2019,
+       "value": 1547.6378351
+    },
+    {
+       "ranking": 5,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2019,
+       "value": 1117.6112717
+    },
+    {
+       "ranking": 6,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2019,
+       "value": 681.4406973
+    },
+    {
+       "ranking": 7,
+       "country": "イラン",
+       "ISO": "IR",
+       "year": 2019,
+       "value": 645.1301758
+    },
+    {
+       "ranking": 8,
+       "country": "韓国",
+       "ISO": "KR",
+       "year": 2019,
+       "value": 623.1062685
+    },
+    {
+       "ranking": 9,
+       "country": "インドネシア",
+       "ISO": "ID",
+       "year": 2019,
+       "value": 620.2000264
+    },
+    {
+       "ranking": 10,
+       "country": "カナダ",
+       "ISO": "CA",
+       "year": 2019,
+       "value": 575.6802339
+    },
+    {
+       "ranking": 11,
+       "country": "サウジアラビア",
+       "ISO": "SA",
+       "year": 2019,
+       "value": 574.387362
+    },
+    {
+       "ranking": 12,
+       "country": "南アフリカ",
+       "ISO": "ZA",
+       "year": 2019,
+       "value": 462.0605818
+    },
+    {
+       "ranking": 13,
+       "country": "メキシコ",
+       "ISO": "MX",
+       "year": 2019,
+       "value": 449.0827515
+    },
+    {
+       "ranking": 14,
+       "country": "ブラジル",
+       "ISO": "BR",
+       "year": 2019,
+       "value": 442.2551795
+    },
+    {
+       "ranking": 15,
+       "country": "オーストラリア",
+       "ISO": "AU",
+       "year": 2019,
+       "value": 398.1498796
+    },
+    {
+       "ranking": 16,
+       "country": "トルコ",
+       "ISO": "TR",
+       "year": 2019,
+       "value": 385.3265455
+    },
+    {
+       "ranking": 17,
+       "country": "イギリス",
+       "ISO": "GB",
+       "year": 2019,
+       "value": 377.8043045
+    },
+    {
+       "ranking": 18,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2019,
+       "value": 330.1982816
+    },
+    {
+       "ranking": 19,
+       "country": "ポーランド",
+       "ISO": "PL",
+       "year": 2019,
+       "value": 301.4173952
+    },
+    {
+       "ranking": 20,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2019,
+       "value": 298.7844358
+    }
+ ]

@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "中国",
+       "ISO": "CN",
+       "year": 2010,
+       "value": 8142.2241525
+    },
+    {
+       "ranking": 2,
+       "country": "米国",
+       "ISO": "US",
+       "year": 2010,
+       "value": 5485.7237663
+    },
+    {
+       "ranking": 3,
+       "country": "インド",
+       "ISO": "IN",
+       "year": 2010,
+       "value": 1650.1852948
+    },
+    {
+       "ranking": 4,
+       "country": "ロシア",
+       "ISO": "RU",
+       "year": 2010,
+       "value": 1492.1789125
+    },
+    {
+       "ranking": 5,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2010,
+       "value": 1197.903286
+    },
+    {
+       "ranking": 6,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2010,
+       "value": 783.1632595
+    },
+    {
+       "ranking": 7,
+       "country": "韓国",
+       "ISO": "KR",
+       "year": 2010,
+       "value": 578.8953376
+    },
+    {
+       "ranking": 8,
+       "country": "カナダ",
+       "ISO": "CA",
+       "year": 2010,
+       "value": 547.0650183
+    },
+    {
+       "ranking": 9,
+       "country": "イギリス",
+       "ISO": "GB",
+       "year": 2010,
+       "value": 528.5330262
+    },
+    {
+       "ranking": 10,
+       "country": "イラン",
+       "ISO": "IR",
+       "year": 2010,
+       "value": 504.8458838
+    },
+    {
+       "ranking": 11,
+       "country": "南アフリカ",
+       "ISO": "ZA",
+       "year": 2010,
+       "value": 474.8642613
+    },
+    {
+       "ranking": 12,
+       "country": "サウジアラビア",
+       "ISO": "SA",
+       "year": 2010,
+       "value": 471.9613432
+    },
+    {
+       "ranking": 13,
+       "country": "メキシコ",
+       "ISO": "MX",
+       "year": 2010,
+       "value": 442.6135201
+    },
+    {
+       "ranking": 14,
+       "country": "インドネシア",
+       "ISO": "ID",
+       "year": 2010,
+       "value": 436.1570024
+    },
+    {
+       "ranking": 15,
+       "country": "ブラジル",
+       "ISO": "BR",
+       "year": 2010,
+       "value": 398.3290333
+    },
+    {
+       "ranking": 16,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2010,
+       "value": 397.1161395
+    },
+    {
+       "ranking": 17,
+       "country": "オーストラリア",
+       "ISO": "AU",
+       "year": 2010,
+       "value": 396.101299
+    },
+    {
+       "ranking": 18,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2010,
+       "value": 360.3621608
+    },
+    {
+       "ranking": 19,
+       "country": "ポーランド",
+       "ISO": "PL",
+       "year": 2010,
+       "value": 323.8223103
+    },
+    {
+       "ranking": 20,
+       "country": "スペイン",
+       "ISO": "ES",
+       "year": 2010,
+       "value": 300.1498569
+    }
+ ]

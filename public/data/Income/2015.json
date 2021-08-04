@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "スイス",
+       "ISO": "CH",
+       "year": 2015,
+       "value": 94104.9023234
+    },
+    {
+       "ranking": 2,
+       "country": "ルクセンブルク",
+       "ISO": "LU",
+       "year": 2015,
+       "value": 75361.9261823
+    },
+    {
+       "ranking": 3,
+       "country": "アイスランド",
+       "ISO": "IS",
+       "year": 2015,
+       "value": 67496.7333842
+    },
+    {
+       "ranking": 4,
+       "country": "デンマーク",
+       "ISO": "DK",
+       "year": 2015,
+       "value": 66685.0103999
+    },
+    {
+       "ranking": 5,
+       "country": "米国",
+       "ISO": "US",
+       "year": 2015,
+       "value": 63844.5557683
+    },
+    {
+       "ranking": 6,
+       "country": "ノルウェー",
+       "ISO": "NO",
+       "year": 2015,
+       "value": 62496.0287708
+    },
+    {
+       "ranking": 7,
+       "country": "オーストラリア",
+       "ISO": "AU",
+       "year": 2015,
+       "value": 58484.0459021
+    },
+    {
+       "ranking": 8,
+       "country": "オランダ",
+       "ISO": "NL",
+       "year": 2015,
+       "value": 56893.0243992
+    },
+    {
+       "ranking": 9,
+       "country": "アイルランド",
+       "ISO": "IE",
+       "year": 2015,
+       "value": 53643.3145941
+    },
+    {
+       "ranking": 10,
+       "country": "ベルギー",
+       "ISO": "BE",
+       "year": 2015,
+       "value": 53410.4560271
+    },
+    {
+       "ranking": 11,
+       "country": "カナダ",
+       "ISO": "CA",
+       "year": 2015,
+       "value": 51567.0132877
+    },
+    {
+       "ranking": 12,
+       "country": "オーストリア",
+       "ISO": "AT",
+       "year": 2015,
+       "value": 50728.2788872
+    },
+    {
+       "ranking": 13,
+       "country": "フィンランド",
+       "ISO": "FI",
+       "year": 2015,
+       "value": 47756.5227988
+    },
+    {
+       "ranking": 14,
+       "country": "イギリス",
+       "ISO": "GB",
+       "year": 2015,
+       "value": 46915.495027
+    },
+    {
+       "ranking": 15,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2015,
+       "value": 46369.8055359
+    },
+    {
+       "ranking": 16,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2015,
+       "value": 46320.2342536
+    },
+    {
+       "ranking": 17,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2015,
+       "value": 43586.7742946
+    },
+    {
+       "ranking": 18,
+       "country": "ニュージーランド",
+       "ISO": "NZ",
+       "year": 2015,
+       "value": 43265.7232531
+    },
+    {
+       "ranking": 19,
+       "country": "イスラエル",
+       "ISO": "IL",
+       "year": 2015,
+       "value": 42515.163437
+    },
+    {
+       "ranking": 20,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2015,
+       "value": 39827.6885938
+    }
+ ]

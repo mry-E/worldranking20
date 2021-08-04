@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2019,
+       "value": 28.0020492
+    },
+    {
+       "ranking": 2,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2019,
+       "value": 23.0121366
+    },
+    {
+       "ranking": 3,
+       "country": "ポルトガル",
+       "ISO": "PT",
+       "year": 2019,
+       "value": 22.3566907
+    },
+    {
+       "ranking": 4,
+       "country": "フィンランド",
+       "ISO": "FI",
+       "year": 2019,
+       "value": 22.1406446
+    },
+    {
+       "ranking": 5,
+       "country": "ギリシャ",
+       "ISO": "GR",
+       "year": 2019,
+       "value": 21.9414701
+    },
+    {
+       "ranking": 6,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2019,
+       "value": 21.5629923
+    },
+    {
+       "ranking": 7,
+       "country": "ブルガリア",
+       "ISO": "BG",
+       "year": 2019,
+       "value": 21.2529672
+    },
+    {
+       "ranking": 8,
+       "country": "クロアチア",
+       "ISO": "HR",
+       "year": 2019,
+       "value": 20.8601352
+    },
+    {
+       "ranking": 9,
+       "country": "マルタ",
+       "ISO": "MT",
+       "year": 2019,
+       "value": 20.8171727
+    },
+    {
+       "ranking": 10,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2019,
+       "value": 20.3913702
+    },
+    {
+       "ranking": 11,
+       "country": "ラトビア",
+       "ISO": "LV",
+       "year": 2019,
+       "value": 20.336511
+    },
+    {
+       "ranking": 12,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2019,
+       "value": 20.1985696
+    },
+    {
+       "ranking": 13,
+       "country": "スロベニア",
+       "ISO": "SI",
+       "year": 2019,
+       "value": 20.186284
+    },
+    {
+       "ranking": 14,
+       "country": "リトアニア",
+       "ISO": "LT",
+       "year": 2019,
+       "value": 20.1584127
+    },
+    {
+       "ranking": 15,
+       "country": "エストニア",
+       "ISO": "EE",
+       "year": 2019,
+       "value": 19.9918077
+    },
+    {
+       "ranking": 16,
+       "country": "デンマーク",
+       "ISO": "DK",
+       "year": 2019,
+       "value": 19.9652591
+    },
+    {
+       "ranking": 17,
+       "country": "米領ヴァージン諸島",
+       "ISO": "VI",
+       "year": 2019,
+       "value": 19.8751171
+    },
+    {
+       "ranking": 18,
+       "country": "チェコ",
+       "ISO": "CZ",
+       "year": 2019,
+       "value": 19.8007448
+    },
+    {
+       "ranking": 19,
+       "country": "プエルトリコ",
+       "ISO": "PR",
+       "year": 2019,
+       "value": 19.6970895
+    },
+    {
+       "ranking": 20,
+       "country": "ハンガリー",
+       "ISO": "HU",
+       "year": 2019,
+       "value": 19.6944576
+    }
+ ]

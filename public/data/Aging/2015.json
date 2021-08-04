@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2015,
+       "value": 26.0193322
+    },
+    {
+       "ranking": 2,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2015,
+       "value": 21.9486456
+    },
+    {
+       "ranking": 3,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2015,
+       "value": 21.2185907
+    },
+    {
+       "ranking": 4,
+       "country": "ギリシャ",
+       "ISO": "GR",
+       "year": 2015,
+       "value": 20.8210042
+    },
+    {
+       "ranking": 5,
+       "country": "ポルトガル",
+       "ISO": "PT",
+       "year": 2015,
+       "value": 20.7619417
+    },
+    {
+       "ranking": 6,
+       "country": "フィンランド",
+       "ISO": "FI",
+       "year": 2015,
+       "value": 20.2443769
+    },
+    {
+       "ranking": 7,
+       "country": "ブルガリア",
+       "ISO": "BG",
+       "year": 2015,
+       "value": 20.0188312
+    },
+    {
+       "ranking": 8,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2015,
+       "value": 19.6085182
+    },
+    {
+       "ranking": 9,
+       "country": "ラトビア",
+       "ISO": "LV",
+       "year": 2015,
+       "value": 19.5186001
+    },
+    {
+       "ranking": 10,
+       "country": "クロアチア",
+       "ISO": "HR",
+       "year": 2015,
+       "value": 19.2458835
+    },
+    {
+       "ranking": 11,
+       "country": "デンマーク",
+       "ISO": "DK",
+       "year": 2015,
+       "value": 19.047444
+    },
+    {
+       "ranking": 12,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2015,
+       "value": 18.8811152
+    },
+    {
+       "ranking": 13,
+       "country": "オーストリア",
+       "ISO": "AT",
+       "year": 2015,
+       "value": 18.8404776
+    },
+    {
+       "ranking": 14,
+       "country": "エストニア",
+       "ISO": "EE",
+       "year": 2015,
+       "value": 18.8220401
+    },
+    {
+       "ranking": 15,
+       "country": "マルタ",
+       "ISO": "MT",
+       "year": 2015,
+       "value": 18.7912141
+    },
+    {
+       "ranking": 16,
+       "country": "リトアニア",
+       "ISO": "LT",
+       "year": 2015,
+       "value": 18.6855532
+    },
+    {
+       "ranking": 17,
+       "country": "スペイン",
+       "ISO": "ES",
+       "year": 2015,
+       "value": 18.6468349
+    },
+    {
+       "ranking": 18,
+       "country": "ベルギー",
+       "ISO": "BE",
+       "year": 2015,
+       "value": 18.1423094
+    },
+    {
+       "ranking": 19,
+       "country": "スロベニア",
+       "ISO": "SI",
+       "year": 2015,
+       "value": 18.013286
+    },
+    {
+       "ranking": 20,
+       "country": "スイス",
+       "ISO": "CH",
+       "year": 2015,
+       "value": 17.9973302
+    }
+ ]

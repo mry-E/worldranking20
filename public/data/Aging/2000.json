@@ -1,0 +1,142 @@
+[
+    {
+       "ranking": 1,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2000,
+       "value": 18.2846617
+    },
+    {
+       "ranking": 2,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2000,
+       "value": 17.3036849
+    },
+    {
+       "ranking": 3,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2000,
+       "value": 16.9844456
+    },
+    {
+       "ranking": 4,
+       "country": "ベルギー",
+       "ISO": "BE",
+       "year": 2000,
+       "value": 16.8664893
+    },
+    {
+       "ranking": 5,
+       "country": "スペイン",
+       "ISO": "ES",
+       "year": 2000,
+       "value": 16.6669222
+    },
+    {
+       "ranking": 6,
+       "country": "ブルガリア",
+       "ISO": "BG",
+       "year": 2000,
+       "value": 16.5946628
+    },
+    {
+       "ranking": 7,
+       "country": "ドイツ",
+       "ISO": "DE",
+       "year": 2000,
+       "value": 16.4882328
+    },
+    {
+       "ranking": 8,
+       "country": "ギリシャ",
+       "ISO": "GR",
+       "year": 2000,
+       "value": 16.4504862
+    },
+    {
+       "ranking": 9,
+       "country": "ポルトガル",
+       "ISO": "PT",
+       "year": 2000,
+       "value": 16.2684449
+    },
+    {
+       "ranking": 10,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2000,
+       "value": 16.0573694
+    },
+    {
+       "ranking": 11,
+       "country": "イギリス",
+       "ISO": "GB",
+       "year": 2000,
+       "value": 15.8931484
+    },
+    {
+       "ranking": 12,
+       "country": "クロアチア",
+       "ISO": "HR",
+       "year": 2000,
+       "value": 15.5657029
+    },
+    {
+       "ranking": 13,
+       "country": "オーストリア",
+       "ISO": "AT",
+       "year": 2000,
+       "value": 15.3899061
+    },
+    {
+       "ranking": 14,
+       "country": "スイス",
+       "ISO": "CH",
+       "year": 2000,
+       "value": 15.2680779
+    },
+    {
+       "ranking": 15,
+       "country": "ノルウェー",
+       "ISO": "NO",
+       "year": 2000,
+       "value": 15.2564349
+    },
+    {
+       "ranking": 16,
+       "country": "ハンガリー",
+       "ISO": "HU",
+       "year": 2000,
+       "value": 15.0971962
+    },
+    {
+       "ranking": 17,
+       "country": "エストニア",
+       "ISO": "EE",
+       "year": 2000,
+       "value": 15.0177398
+    },
+    {
+       "ranking": 18,
+       "country": "フィンランド",
+       "ISO": "FI",
+       "year": 2000,
+       "value": 14.9939263
+    },
+    {
+       "ranking": 19,
+       "country": "ラトビア",
+       "ISO": "LV",
+       "year": 2000,
+       "value": 14.9884823
+    },
+    {
+       "ranking": 20,
+       "country": "デンマーク",
+       "ISO": "DK",
+       "year": 2000,
+       "value": 14.8537574
+    }
+ ]

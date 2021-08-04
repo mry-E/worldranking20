@@ -1,0 +1,142 @@
+[
+    {
+        "ranking": "1",
+        "country": "米国",
+        "ISO": "US",
+        "year": "1995",
+        "value": "7639749"
+    },
+    {
+        "ranking": "2",
+        "country": "日本",
+        "ISO": "JP",
+        "year": "1995",
+        "value": "5449117.5119103"
+    },
+    {
+        "ranking": "3",
+        "country": "ドイツ",
+        "ISO": "DE",
+        "year": "1995",
+        "value": "2585619.3173345"
+    },
+    {
+        "ranking": "4",
+        "country": "フランス",
+        "ISO": "FR",
+        "year": "1995",
+        "value": "1600996.7024045"
+    },
+    {
+        "ranking": "5",
+        "country": "イギリス",
+        "ISO": "GB",
+        "year": "1995",
+        "value": "1341681.8254956"
+    },
+    {
+        "ranking": "6",
+        "country": "イタリア",
+        "ISO": "IT",
+        "year": "1995",
+        "value": "1174698.6983933"
+    },
+    {
+        "ranking": "7",
+        "country": "ブラジル",
+        "ISO": "BR",
+        "year": "1995",
+        "value": "778052.8216531"
+    },
+    {
+        "ranking": "8",
+        "country": "中国",
+        "ISO": "CN",
+        "year": "1995",
+        "value": "734484.9676202"
+    },
+    {
+        "ranking": "9",
+        "country": "スペイン",
+        "ISO": "ES",
+        "year": "1995",
+        "value": "614612.3151841"
+    },
+    {
+        "ranking": "10",
+        "country": "カナダ",
+        "ISO": "CA",
+        "year": "1995",
+        "value": "605943.0612977"
+    },
+    {
+        "ranking": "11",
+        "country": "韓国",
+        "ISO": "KR",
+        "year": "1995",
+        "value": "566580.9786413"
+    },
+    {
+        "ranking": "12",
+        "country": "オランダ",
+        "ISO": "NL",
+        "year": "1995",
+        "value": "452286.9860328"
+    },
+    {
+        "ranking": "13",
+        "country": "ロシア",
+        "ISO": "RU",
+        "year": "1995",
+        "value": "402294.8373554"
+    },
+    {
+        "ranking": "14",
+        "country": "オーストラリア",
+        "ISO": "AU",
+        "year": "1995",
+        "value": "391094.3583642"
+    },
+    {
+        "ranking": "15",
+        "country": "インド",
+        "ISO": "IN",
+        "year": "1995",
+        "value": "371782.7197969"
+    },
+    {
+        "ranking": "16",
+        "country": "メキシコ",
+        "ISO": "MX",
+        "year": "1995",
+        "value": "360072.5069612"
+    },
+    {
+        "ranking": "17",
+        "country": "スイス",
+        "ISO": "CH",
+        "year": "1995",
+        "value": "353141.7230752"
+    },
+    {
+        "ranking": "18",
+        "country": "ベルギー",
+        "ISO": "BE",
+        "year": "1995",
+        "value": "288029.3230868"
+    },
+    {
+        "ranking": "19",
+        "country": "アルゼンチン",
+        "ISO": "AR",
+        "year": "1995",
+        "value": "279701.4253713"
+    },
+    {
+        "ranking": "20",
+        "country": "台湾",
+        "ISO": "TW",
+        "year": "1995",
+        "value": "279013.2880332"
+    }
+]
