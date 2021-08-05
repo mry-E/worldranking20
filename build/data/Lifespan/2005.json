@@ -1,142 +1,142 @@
 [
-    {
-       "ranking": 1,
-       "country": "スイス",
-       "ISO": "CH",
-       "year": 2005,
-       "value": 87185.2433184
-    },
-    {
-       "ranking": 2,
-       "country": "アイスランド",
-       "ISO": "IS",
-       "year": 2005,
-       "value": 70746.7767014
-    },
-    {
-       "ranking": 3,
-       "country": "ルクセンブルク",
-       "ISO": "LU",
-       "year": 2005,
-       "value": 67691.9313278
-    },
-    {
-       "ranking": 4,
-       "country": "デンマーク",
-       "ISO": "DK",
-       "year": 2005,
-       "value": 59565.8665747
-    },
-    {
-       "ranking": 5,
-       "country": "米国",
-       "ISO": "US",
-       "year": 2005,
-       "value": 58092.3516733
-    },
-    {
-       "ranking": 6,
-       "country": "オランダ",
-       "ISO": "NL",
-       "year": 2005,
-       "value": 53154.7418057
-    },
-    {
-       "ranking": 7,
-       "country": "オーストラリア",
-       "ISO": "AU",
-       "year": 2005,
-       "value": 53009.2476039
-    },
-    {
-       "ranking": 8,
-       "country": "ベルギー",
-       "ISO": "BE",
-       "year": 2005,
-       "value": 51041.7641124
-    },
-    {
-       "ranking": 9,
-       "country": "ノルウェー",
-       "ISO": "NO",
-       "year": 2005,
-       "value": 50126.5510491
-    },
-    {
-       "ranking": 10,
-       "country": "アイルランド",
-       "ISO": "IE",
-       "year": 2005,
-       "value": 48486.4774151
-    },
-    {
-       "ranking": 11,
-       "country": "オーストリア",
-       "ISO": "AT",
-       "year": 2005,
-       "value": 47914.7111266
-    },
-    {
-       "ranking": 12,
-       "country": "イギリス",
-       "ISO": "GB",
-       "year": 2005,
-       "value": 45629.7591774
-    },
-    {
-       "ranking": 13,
-       "country": "フィンランド",
-       "ISO": "FI",
-       "year": 2005,
-       "value": 44758.2443706
-    },
-    {
-       "ranking": 14,
-       "country": "カナダ",
-       "ISO": "CA",
-       "year": 2005,
-       "value": 44612.4783301
-    },
-    {
-       "ranking": 15,
-       "country": "ドイツ",
-       "ISO": "DE",
-       "year": 2005,
-       "value": 42139.7434101
-    },
-    {
-       "ranking": 16,
-       "country": "日本",
-       "ISO": "JP",
-       "year": 2005,
-       "value": 41553.2297927
-    },
-    {
-       "ranking": 17,
-       "country": "イスラエル",
-       "ISO": "IL",
-       "year": 2005,
-       "value": 40304.7014992
-    },
-    {
-       "ranking": 18,
-       "country": "フランス",
-       "ISO": "FR",
-       "year": 2005,
-       "value": 39657.7189761
-    },
-    {
-       "ranking": 19,
-       "country": "スウェーデン",
-       "ISO": "SE",
-       "year": 2005,
-       "value": 39039.5320239
-    },
-    {
-       "ranking": 20,
-       "country": "ニュージーランド",
-       "ISO": "NZ",
-       "year": 2005,
-       "value": 38959.2455446
-    }
- ]
+   {
+      "ranking": 1,
+      "country": "日本",
+      "ISO": "JP",
+      "year": 2005,
+      "value": 81.9251219
+   },
+   {
+      "ranking": 2,
+      "country": "香港",
+      "ISO": "HK",
+      "year": 2005,
+      "value": 81.6292682
+   },
+   {
+      "ranking": 3,
+      "country": "マカオ",
+      "ISO": "MO",
+      "year": 2005,
+      "value": 81.523
+   },
+   {
+      "ranking": 4,
+      "country": "アイスランド",
+      "ISO": "IS",
+      "year": 2005,
+      "value": 81.502439
+   },
+   {
+      "ranking": 5,
+      "country": "スイス",
+      "ISO": "CH",
+      "year": 2005,
+      "value": 81.2365853
+   },
+   {
+      "ranking": 6,
+      "country": "オーストラリア",
+      "ISO": "AU",
+      "year": 2005,
+      "value": 80.8414634
+   },
+   {
+      "ranking": 7,
+      "country": "イタリア",
+      "ISO": "IT",
+      "year": 2005,
+      "value": 80.7829268
+   },
+   {
+      "ranking": 8,
+      "country": "リヒテンシュタイン",
+      "ISO": "LI",
+      "year": 2005,
+      "value": 80.6682926
+   },
+   {
+      "ranking": 9,
+      "country": "スウェーデン",
+      "ISO": "SE",
+      "year": 2005,
+      "value": 80.5463414
+   },
+   {
+      "ranking": 10,
+      "country": "チャンネル諸島",
+      "ISO": "GG-JE",
+      "year": 2005,
+      "value": 80.298
+   },
+   {
+      "ranking": 11,
+      "country": "カナダ",
+      "ISO": "CA",
+      "year": 2005,
+      "value": 80.1926829
+   },
+   {
+      "ranking": 12,
+      "country": "スペイン",
+      "ISO": "ES",
+      "year": 2005,
+      "value": 80.1707317
+   },
+   {
+      "ranking": 13,
+      "country": "フランス",
+      "ISO": "FR",
+      "year": 2005,
+      "value": 80.1634146
+   },
+   {
+      "ranking": 14,
+      "country": "イスラエル",
+      "ISO": "IL",
+      "year": 2005,
+      "value": 80.1512195
+   },
+   {
+      "ranking": 15,
+      "country": "ノルウェー",
+      "ISO": "NO",
+      "year": 2005,
+      "value": 80.0414634
+   },
+   {
+      "ranking": 16,
+      "country": "シンガポール",
+      "ISO": "SG",
+      "year": 2005,
+      "value": 79.9902439
+   },
+   {
+      "ranking": 17,
+      "country": "ニュージーランド",
+      "ISO": "NZ",
+      "year": 2005,
+      "value": 79.8512195
+   },
+   {
+      "ranking": 18,
+      "country": "フェロー諸島",
+      "ISO": "FO",
+      "year": 2005,
+      "value": 79.4414634
+   },
+   {
+      "ranking": 19,
+      "country": "ルクセンブルク",
+      "ISO": "LU",
+      "year": 2005,
+      "value": 79.4317073
+   },
+   {
+      "ranking": 20,
+      "country": "オランダ",
+      "ISO": "NL",
+      "year": 2005,
+      "value": 79.3463414
+   }
+]

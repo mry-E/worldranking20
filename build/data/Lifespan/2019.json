@@ -1,142 +1,142 @@
 [
     {
-        "ranking": "1",
-        "country": "香港",
-        "ISO": "HK",
-        "year": "2019",
-        "value": "85.0780487"
+       "ranking": 1,
+       "country": "香港",
+       "ISO": "HK",
+       "year": 2019,
+       "value": 85.0780487
     },
     {
-        "ranking": "2",
-        "country": "日本",
-        "ISO": "JP",
-        "year": "2019",
-        "value": "84.3563414"
+       "ranking": 2,
+       "country": "日本",
+       "ISO": "JP",
+       "year": 2019,
+       "value": 84.3563414
     },
     {
-        "ranking": "3",
-        "country": "マカオ",
-        "ISO": "MO",
-        "year": "2019",
-        "value": "84.244"
+       "ranking": 3,
+       "country": "マカオ",
+       "ISO": "MO",
+       "year": 2019,
+       "value": 84.244
     },
     {
-        "ranking": "4",
-        "country": "スイス",
-        "ISO": "CH",
-        "year": "2019",
-        "value": "83.704878"
+       "ranking": 4,
+       "country": "スイス",
+       "ISO": "CH",
+       "year": 2019,
+       "value": 83.704878
     },
     {
-        "ranking": "5",
-        "country": "シンガポール",
-        "ISO": "SG",
-        "year": "2019",
-        "value": "83.4975609"
+       "ranking": 5,
+       "country": "シンガポール",
+       "ISO": "SG",
+       "year": 2019,
+       "value": 83.4975609
     },
     {
-        "ranking": "6",
-        "country": "スペイン",
-        "ISO": "ES",
-        "year": "2019",
-        "value": "83.4853658"
+       "ranking": 6,
+       "country": "スペイン",
+       "ISO": "ES",
+       "year": 2019,
+       "value": 83.4853658
     },
     {
-        "ranking": "7",
-        "country": "韓国",
-        "ISO": "KR",
-        "year": "2019",
-        "value": "83.2268292"
+       "ranking": 7,
+       "country": "韓国",
+       "ISO": "KR",
+       "year": 2019,
+       "value": 83.2268292
     },
     {
-        "ranking": "8",
-        "country": "イタリア",
-        "ISO": "IT",
-        "year": "2019",
-        "value": "83.1975609"
+       "ranking": 8,
+       "country": "イタリア",
+       "ISO": "IT",
+       "year": 2019,
+       "value": 83.1975609
     },
     {
-        "ranking": "9",
-        "country": "チャンネル諸島",
-        "ISO": "GG-JE",
-        "year": "2019",
-        "value": "83.086"
+       "ranking": 9,
+       "country": "チャンネル諸島",
+       "ISO": "GG-JE",
+       "year": 2019,
+       "value": 83.086
     },
     {
-        "ranking": "10",
-        "country": "リヒテンシュタイン",
-        "ISO": "LI",
-        "year": "2019",
-        "value": "83.0414634"
+       "ranking": 10,
+       "country": "リヒテンシュタイン",
+       "ISO": "LI",
+       "year": 2019,
+       "value": 83.0414634
     },
     {
-        "ranking": "11",
-        "country": "スウェーデン",
-        "ISO": "SE",
-        "year": "2019",
-        "value": "82.9585365"
+       "ranking": 11,
+       "country": "スウェーデン",
+       "ISO": "SE",
+       "year": 2019,
+       "value": 82.9585365
     },
     {
-        "ranking": "12",
-        "country": "ノルウェー",
-        "ISO": "NO",
-        "year": "2019",
-        "value": "82.907317"
+       "ranking": 12,
+       "country": "ノルウェー",
+       "ISO": "NO",
+       "year": 2019,
+       "value": 82.907317
     },
     {
-        "ranking": "13",
-        "country": "オーストラリア",
-        "ISO": "AU",
-        "year": "2019",
-        "value": "82.9"
+       "ranking": 13,
+       "country": "オーストラリア",
+       "ISO": "AU",
+       "year": 2019,
+       "value": 82.9
     },
     {
-        "ranking": "14",
-        "country": "イスラエル",
-        "ISO": "IL",
-        "year": "2019",
-        "value": "82.804878"
+       "ranking": 14,
+       "country": "イスラエル",
+       "ISO": "IL",
+       "year": 2019,
+       "value": 82.804878
     },
     {
-        "ranking": "15",
-        "country": "フェロー諸島",
-        "ISO": "FO",
-        "year": "2019",
-        "value": "82.7463414"
+       "ranking": 15,
+       "country": "フェロー諸島",
+       "ISO": "FO",
+       "year": 2019,
+       "value": 82.7463414
     },
     {
-        "ranking": "16",
-        "country": "マルタ",
-        "ISO": "MT",
-        "year": "2019",
-        "value": "82.6"
+       "ranking": 16,
+       "country": "マルタ",
+       "ISO": "MT",
+       "year": 2019,
+       "value": 82.6
     },
     {
-        "ranking": "17",
-        "country": "フランス",
-        "ISO": "FR",
-        "year": "2019",
-        "value": "82.5780487"
+       "ranking": 17,
+       "country": "フランス",
+       "ISO": "FR",
+       "year": 2019,
+       "value": 82.5780487
     },
     {
-        "ranking": "18",
-        "country": "アイスランド",
-        "ISO": "IS",
-        "year": "2019",
-        "value": "82.5609756"
+       "ranking": 18,
+       "country": "アイスランド",
+       "ISO": "IS",
+       "year": 2019,
+       "value": 82.5609756
     },
     {
-        "ranking": "19",
-        "country": "ルクセンブルク",
-        "ISO": "LU",
-        "year": "2019",
-        "value": "82.4463414"
+       "ranking": 19,
+       "country": "ルクセンブルク",
+       "ISO": "LU",
+       "year": 2019,
+       "value": 82.4463414
     },
     {
-        "ranking": "20",
-        "country": "アイルランド",
-        "ISO": "IE",
-        "year": "2019",
-        "value": "82.302439"
+       "ranking": 20,
+       "country": "アイルランド",
+       "ISO": "IE",
+       "year": 2019,
+       "value": 82.302439
     }
-]
+ ]
