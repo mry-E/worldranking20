@@ -2,6 +2,26 @@ import React, { useEffect, useState } from "react";
 import * as d3 from "d3";
 import { select } from "d3-selection";
 import * as topojson from "topojson";
+import "../tooltip.css";
+
+function Tooltip ({show,clientX,clientY,country,value}){
+  console.log(clientY)
+  return (
+      <div>
+        {show && (
+        <div
+          id="tooltip"
+          style={{ top: `${clientY-150}px`, left: `${clientX+20}px` }}
+        >
+          {country}
+          <br/>
+          {value}
+        </div>
+      )}
+      </div>
+  );
+}
+
 
 function DrawWorldMap({features,data}){
   
@@ -14,11 +34,14 @@ function DrawWorldMap({features,data}){
       })();
     },[])
 
-    const useCapital = [];
+    let useCapital = [];
+    let i = 0;
     data.map((item) => {
       capitalData.map((item2) => {
         if(item2.country_code === item.ISO){
-          return useCapital.push(item2)
+          useCapital[i] = item2;
+          useCapital[i].value = item.value;
+          i++;
         }
       })
     })
@@ -40,6 +63,29 @@ function DrawWorldMap({features,data}){
                          .scale(scale);
     
     const path = d3.geoPath().projection(projection);
+    const [clientX,setX] = useState(0);
+    const [clientY,setY] = useState(0);
+    const [show,setShow] = useState(false);
+    const [countryDetail,setCountry] = useState();
+    const [value,setValue] = useState(0);
+
+    const handleMouseOver = (e,item) => {
+      console.log(e)
+      setShow(true);
+      setX(e.clientX);
+      setY(e.clientY);
+      setCountry(item.country_code);
+      setValue(item.value);
+  }
+
+  const handleMouseMove = (e) => {
+      setX(e.clientX);
+      setY(e.clientY);
+  }
+
+  const handleMouseOut = (e) => {
+      setShow(false);
+  }
     
     const  radius = (country) => {
       let r = 0;
@@ -76,6 +122,11 @@ function DrawWorldMap({features,data}){
               }else if(item.lat < -40){
                 ajust = 10;
               }
+              if(item.lat > 60){
+                ajust = -35;
+              }else if(item.lat < -60){
+                ajust = 35;
+              }
               return(
                 <g transform={`translate(${width/2},${height/2+30})`}>
                 <circle 
@@ -84,6 +135,9 @@ function DrawWorldMap({features,data}){
                 r={radius(item.country_code)} 
                 fill="red" 
                 opacity="0.5" 
+                onMouseOver={(e) => handleMouseOver(e,item)}
+                onMouseMove={(e) => handleMouseMove(e)}
+                onMouseOut={(e) => handleMouseOut(e)}
                 />   
               </g>   
               )         
@@ -91,6 +145,7 @@ function DrawWorldMap({features,data}){
           </g>          
         </g>
             </svg>
+            <Tooltip show={show} clientX={clientX} clientY={clientY} country={countryDetail} value={value} />
         </div>
     );
 }

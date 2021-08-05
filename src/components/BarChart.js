@@ -155,7 +155,7 @@ function BarChart({data,type}){
                     })}
                 </g>
             </svg>
-            <Tooltip show={show} clientX={clientX} clientY={clientY} country={countryDetail} value={value.toFixed(3)} />
+            <Tooltip show={show} clientX={clientX} clientY={clientY} country={countryDetail} value={value} />
         </div>
     );
 }
